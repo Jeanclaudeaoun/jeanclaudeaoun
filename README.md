@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey 👋 My name is JC
+Tech Advisor | CTO | CoFounder | Fullstack Javascript, App, Web3.0 & Blockchain Engineer
+Co-Founder and CTO in ondecentral.com
+Co-Founder and CTO in nobotsinc.com FZ-LLC - Dubai
+Founder of JayDaryn.com web3.0 Initiative 🚀
 
-<!--
-**Jeanclaudeaoun/jeanclaudeaoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👉 https://jeanclaudeaoun.com
+👉 https://twitter.com/jeanclaudeaoun
+👉 https://linkedin.com/in/jeanclaudeaoun
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+- https://wa.me/+971582236678
+- https://calendly.com/jeanclaudeaoun
+- jeanclaude@jaydaryn.com
