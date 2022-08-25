@@ -5,7 +5,7 @@
 - Co-Founder and CTO in nobots FZ-LLC - Dubai
 - Founder of JayDaryn web3.0 Initiative 🚀
 
-[ONDECENTRAL](https://ondecentral.com) | [JAYDARYN](https://jaydarym.com) |  [NOBOTS FZ-LLC DUBAI](nobotsinc.com) | [I-LIRA](https://i-lira.com) |  [CODEBLASE.COM](https://codeblase.com) | [CHERPA.IO](https://cherpa.io)
+[ONDECENTRAL](https://ondecentral.com) | [JAYDARYN](https://jaydarym.com) |  [NOBOTS FZ-LLC DUBAI](nobotsinc.com) | [I-LIRA](https://i-lira.com) |  [CODEBLASE.COM](https://codeblase.com) | Game Dev @ [CHERPA.IO](https://cherpa.io)
 
 ---
 
