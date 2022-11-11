@@ -1,11 +1,9 @@
 # Hey 👋 My name is JC
 
 ### Tech Advisor | CTO | CoFounder | Fullstack Javascript, App, Web3.0 & Blockchain Engineer
-- Co-Founder and CTO in ondecentral
-- Co-Founder and CTO in nobots FZ-LLC - Dubai
-- Founder of JayDaryn web3.0 Initiative 🚀
+Founder of JayDaryn web3.0 Initiative 🚀
 
-[ONDECENTRAL](https://ondecentral.com) | [JAYDARYN](https://jaydarym.com) |  [NOBOTS FZ-LLC DUBAI](nobotsinc.com) | [I-LIRA](https://i-lira.com) |  [CODEBLASE.COM](https://codeblase.com) | Game Dev @ [CHERPA.IO](https://cherpa.io)
+[JAYDARYN](https://jaydarym.com) |  [NOBOTS FZ-LLC DUBAI](nobotsinc.com) | [ONDECENTRAL](https://ondecentral.com) | [I-LIRA](https://i-lira.com) |  [CODEBLASE.COM](https://codeblase.com) | Game Dev @ [CHERPA.IO](https://cherpa.io)
 
 ---
 
