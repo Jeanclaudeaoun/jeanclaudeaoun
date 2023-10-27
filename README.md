@@ -1,9 +1,10 @@
 # Hey 👋 My name is JC
 
-### Tech Advisor | CTO | CoFounder | Fullstack Javascript, App, Web3.0 & Blockchain Engineer
-Founder of JayDaryn web3.0 Initiative 🚀
+### Tech Advisor | CTO | CoFounder | Fullstack Javascript, App, Web3.0 & Blockchain Engineer 🚀
 
-[JAYDARYN](https://jaydarym.com) |  [NOBOTS FZ-LLC DUBAI](nobotsinc.com) | [ONDECENTRAL](https://ondecentral.com) | [I-LIRA](https://i-lira.com) |  [CODEBLASE.COM](https://codeblase.com) | Game Dev @ [CHERPA.IO](https://cherpa.io)
+Head Of Product at [Bonuz](https://bonuz.market)
+
+[JAYDARYN](https://jaydarym.com) |  [Skilz (NOBOTS FZ-LLC DUBAI)](https://skilzapp.net) | [ONDECENTRAL](https://ondecentral.com) | [CODEBLASE.COM](https://codeblase.com) | [CHERPA.IO](https://cherpa.io)
 
 ---
 
