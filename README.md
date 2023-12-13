@@ -29,6 +29,5 @@ LinkedIn 👉 https://linkedin.com/in/jeanclaudeaoun
 ---
 
 📫 How to reach me:
-- Whatsapp: https://wa.me/+971582236678
+- Telegram: https://t.me/jeanclaudeaoun
 - Let's Book a call: https://calendly.com/jeanclaudeaoun
-- Email: jeanclaude@jaydaryn.com
