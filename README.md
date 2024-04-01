@@ -1,7 +1,8 @@
 # Hey 👋 My name is JC
 
-### Tech Advisor | CTO | CoFounder | Fullstack Javascript, App, Web3.0 & Blockchain Engineer 🚀
+### Tech Advisor | CTO | Fullstack Javascript, App, Web3.0 & Blockchain Engineer 🚀
 
+Founder of [idSign](https://idsign.com)
 Head Of Product at [Bonuz](https://bonuz.market)
 
 [JAYDARYN](https://jaydarym.com) |  [Skilz (NOBOTS FZ-LLC DUBAI)](https://skilzapp.net) | [ONDECENTRAL](https://ondecentral.com) | [CODEBLASE.COM](https://codeblase.com) | [CHERPA.IO](https://cherpa.io)
