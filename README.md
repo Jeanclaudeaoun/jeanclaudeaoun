@@ -5,7 +5,9 @@
 > Trust, Reimagined
 
 Twitter 👉 https://twitter.com/jeanclaudeaoun
+
 Portfolio 👉 https://jeanclaudeaoun.com
+
 LinkedIn 👉 https://linkedin.com/in/jeanclaudeaoun
 
 ---
