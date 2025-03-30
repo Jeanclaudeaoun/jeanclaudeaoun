@@ -3,6 +3,7 @@
 ### Tech Founder | CTO @ [idSign.com](https://idsign.com) 
 
 > Trust, Reimagined
+
 Twitter 👉 https://twitter.com/jeanclaudeaoun
 
 Head of Product [Bonuz](https://bonuz.xyz) | [JAYDARYN](https://jaydaryn.com) Community | [Skilz](https://skilzapp.net) | [Fastcheck.AI](https://fastcheck.ai/)
