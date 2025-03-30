@@ -5,10 +5,12 @@
 > Trust, Reimagined
 
 Twitter 👉 https://twitter.com/jeanclaudeaoun
+Portfolio 👉 https://jeanclaudeaoun.com
+LinkedIn 👉 https://linkedin.com/in/jeanclaudeaoun
 
 ---
 
-[Bonuz](https://bonuz.xyz) | [JAYDARYN](https://jaydaryn.com) | [Skilz](https://skilzapp.net) | [Fastcheck.AI](https://fastcheck.ai/)
+[idSign](https://idsign.com) | [Bonuz](https://bonuz.xyz) | [JayDaryn](https://jaydaryn.com) | [Skilz](https://skilzapp.net) | [Fastcheck.AI](https://fastcheck.ai/)
 
 
 * StartupGrind Grind Member
@@ -19,12 +21,6 @@ Twitter 👉 https://twitter.com/jeanclaudeaoun
 * Founder and CTO of Startup in Beirut at a young age of 18
 * Helped build multiple tech startups, organized / mentored at events and Hackathons, and managed & trained dev teams with industry leading best practices.
 * Experience in building and maintaining projects such as social media apps, chatting systems, DEFI, and A.I platforms (React.js, React-Native, Node.js, Mongodb, kubernetes, Serverless, Solidity etc..)
-
----
-
-Portfolio 👉 https://jeanclaudeaoun.com
-
-LinkedIn 👉 https://linkedin.com/in/jeanclaudeaoun
 
 ---
 
