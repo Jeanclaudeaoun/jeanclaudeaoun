@@ -12,7 +12,7 @@ LinkedIn 👉 https://linkedin.com/in/jeanclaudeaoun
 
 ---
 
-[idSign](https://idsign.com) | [Bonuz](https://bonuz.xyz) | [JayDaryn](https://jaydaryn.com) | [Skilz](https://skilzapp.net) | [Fastcheck.AI](https://fastcheck.ai/)
+[untrace.network](https://untrace.network) | [idSign](https://idsign.com) | [Bonuz](https://bonuz.xyz) | [Skilz](https://skilzapp.net)
 
 
 * StartupGrind Grind Member
