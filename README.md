@@ -1,6 +1,6 @@
 # Hey 👋 My name is JC 
 
-### Tech Founder & CTO @ [idSign.com](https://idsign.com) 
+### Founder | Cybersecurity, AI, Web3 & Product Architecture | Technology Advisor 👨‍💻
 
 > Trust, Reimagined
 
